@@ -23,6 +23,9 @@
     justify-content: center;
     
 }
+.calc-container .calculate {
+    width: 80px;
+}
 
 .keys-container{
     display: flex;
